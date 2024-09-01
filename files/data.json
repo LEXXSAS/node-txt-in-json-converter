@@ -1,8 +1,8 @@
 [
   {
-    "title": "Nextjs Технология современной веб-разработки",
+    "title": "Nodejs documentation",
     "author": "habr",
-    "body": "https://habr.com/ru/companies/auriga/articles/786912/",
+    "body": "https://nodejs.org/docs/latest/api/",
     "priority": "low"
   }
 ]
